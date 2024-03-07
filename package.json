@@ -1,0 +1,22 @@
+{
+  "name": "html-database",
+  "version": "1.0.0",
+  "description": "Your neighborhood god mode machine of databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "db",
+    "js"
+  ],
+  "repository":{
+    "url":"https://github.com/tntzeal/html-database.git"
+  }
+}
